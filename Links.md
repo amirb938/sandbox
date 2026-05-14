@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 08:48 IR
+- 📱 [`com.openai.chatgpt_arm64.apks`](https://github.com/amirb938/sandbox/raw/main/apks/com.openai.chatgpt_arm64.apks) - **68.0MB**
+
+---
+
+
 ### 📅 2026-05-14 08:44 IR
 - 🎬 [S01.mp4](https://github.com/amirb938/sandbox/raw/main/dl/S01.mp4) `30.8MB`
 
